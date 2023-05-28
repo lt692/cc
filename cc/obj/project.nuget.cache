@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bAoSUhEm+W/51OBQHTWYbYaIeeLYATfZxZHlx9HaoUqlKxBIziSAkwend20qBInZ5tmRFHG26DdfjJuRdRB0VQ==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\wpf\\cc\\cc\\cc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paulius\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\Paulius\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}
